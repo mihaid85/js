@@ -1,3 +1,3 @@
-# JavaScript files
+# Testing repo
 
-### Various script files for testing purposes.
+### Various html, css, and JS files for testing purposes.
