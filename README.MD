@@ -1,4 +1,3 @@
-PABD 2017
+#JavaScript files
 
-Learning mobile programming
-JS exercises
+Various script files for testing purposes.
