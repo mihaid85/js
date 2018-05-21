@@ -1,3 +1,3 @@
-#JavaScript files
+# JavaScript files
 
-Various script files for testing purposes.
+### Various script files for testing purposes.
